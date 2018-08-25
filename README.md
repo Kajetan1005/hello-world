@@ -1,3 +1,3 @@
 # hello-world
-My first repository an README.md file :)
+My first repository and README.md file :)
 
